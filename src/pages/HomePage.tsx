@@ -86,7 +86,7 @@ export default function HomePage() {
             </p>
             <p className="mt-2 text-muted-foreground font-mono text-xs max-w-md mx-auto">
               Analyze binaries directly in your browser. No uploads, no servers. 
-              Powered by Rizin compiled to WebAssembly.
+              Powered by Rizin compiled to WebAssembly. 
             </p>
           </div>
 
@@ -149,19 +149,46 @@ export default function HomePage() {
       </main>
 
       <footer className="border-t border-border py-3 px-6 bg-card">
-        <div className="flex items-center justify-center gap-4 text-[10px] text-muted-foreground font-mono">
+        <div className="flex flex-wrap items-center justify-center gap-4 text-[10px] text-muted-foreground font-mono">
           <span>
-            by{' '}
-            <a href="https://github.com/IndAlok" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+            by{" "}
+            <a
+              href="https://github.com/IndAlok"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline"
+            >
               IndAlok
             </a>
           </span>
+      
           <span className="text-border">|</span>
+      
           <span>
-            powered by{' '}
-            <a href="https://rizin.re" target="_blank" rel="noopener noreferrer" className="hover:text-primary">
+            powered by{" "}
+            <a
+              href="https://rizin.re"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-primary"
+            >
               Rizin
             </a>
+          </span>
+      
+          <span className="text-border">|</span>
+      
+          <span>
+            Mirror hosted by{" "}
+            <a
+              href="https://vipin.xyz"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline"
+            >
+              vipin.xyz
+            </a>{" "}
+            (for no reason what so ever)
           </span>
         </div>
       </footer>
