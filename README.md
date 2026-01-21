@@ -1,4 +1,6 @@
-# RzWeb
+# This fork is just to host a mirror I made as my school blocks pages.dev. You can access it @ rizin.vipin.xyz 
+
+# RzWeb 
 
 A browser-based reverse engineering platform that runs Rizin entirely in your browser through WebAssembly. No installations, no uploads, no servers - just drop a binary and start analyzing.
 
