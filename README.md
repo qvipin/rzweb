@@ -1,4 +1,4 @@
-# This fork is just to host a mirror I made as my school blocks pages.dev. You can access it @ rizin.vipin.xyz 
+# This fork is just to host a mirror I made as my school blocks pages.dev. You can access it @ [rizin.vipin.xyz](https://rizin.vipin.xyz)
 
 # RzWeb 
 
